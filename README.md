@@ -2,7 +2,7 @@
 
 Browser-only tool that strips AI-image metadata, injects realistic camera EXIF, and disrupts diffusion-model fingerprints. Nothing leaves your device.
 
-**Open the app:** https://sergeyizmailov.github.io/ImageCleaner
+**Open the app:** https://slilbudget.github.io/ImageCleaner
 
 ## What it does
 
@@ -24,7 +24,7 @@ Browser-only tool that strips AI-image metadata, injects realistic camera EXIF, 
 ## Run locally
 
 ```bash
-git clone https://github.com/sergeyizmailov/ImageCleaner.git
+git clone https://github.com/slilbudget/ImageCleaner.git
 cd ImageCleaner
 open index.html
 ```
